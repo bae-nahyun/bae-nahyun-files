@@ -7,4 +7,4 @@
 파이썬과 인공지능 기초수학
 
 ## 3주차 과제 (2020.06.11)
-
+[cost 함수](https://github.com/bae-nahyun/bae-nahyun-files/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
